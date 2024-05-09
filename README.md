@@ -3,7 +3,7 @@
 Evaluating the Effectiveness of Community Engagement Courses 
 
 # Introduction
-This study seeks to explore the impact of community engagement courses on student outcomes at UCLA. Utilizing pre- and post-course survey data, our analysis focuses on identifying changes in students' attitudes, knowledge, and behaviors concerning community involvement and social responsibility. This project aims not only to assess the effectiveness of these courses but also to provide actionable insights that could enhance their design and implementation.
+This project aims to explore the impact of community engagement courses on student outcomes. Utilizing pre- and post-course survey data, our analysis focuses on identifying changes in students' attitudes, knowledge, and behaviors concerning community involvement and social responsibility. This project aims not only to assess the effectiveness of these courses but also to provide actionable insights that could enhance their design and implementation.
 
 # Data Processing
 Detailed Steps:
