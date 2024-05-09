@@ -13,7 +13,7 @@ Detailed Steps:
 - New Variables: I introduced a new variable to classify participants based on their campus locations (North or South), which helped in comparing regional differences in engagement levels.
 - Response Adjustment: I reversed the values on a 1-5 scale for certain questions where negative results needed to be reinterpreted, enhancing the clarity and usability of the data.
 - 
-#Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 Process:
 - Baseline Assessment: Initially, I conducted an exploratory analysis to identify baseline trends and distributions across different courses and demographics. This step helped in understanding the initial conditions before any interventions.
 - Variable Distribution: I examined how various factors such as ethnicity, major, and enrollment distributions affected student engagement and outcomes.
